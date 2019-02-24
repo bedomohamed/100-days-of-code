@@ -14,7 +14,7 @@ The log of my #100DaysOfCode challenge. Started on [Feburary 22, Friday, 2019].
 4- Installed iTerm command, Python3, and Sublime Text
 
 5- Practiced python printing function 
-### R1D2
+### R1D2 Time: 3 hours
 
 1- I finished variable, numbers, operators, strings and comments section in Colt steel course
 
