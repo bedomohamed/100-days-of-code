@@ -15,3 +15,13 @@ The log of my #100DaysOfCode challenge. Started on [Feburary 22, Friday, 2019].
 
 5- Practiced python printing function 
 ### R1D2
+
+1- I finished variable, numbers, operators, strings and comments section in Colt steel course
+
+2- I finished ex0, ex1, ex2 and ex3 in Learn python the hard way
+
+3- I practiced more command line shortcuts on iTerm
+
+### R1D3
+
+
